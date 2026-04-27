@@ -1,0 +1,28 @@
+{
+  "id": "safepassbuilder-com",
+  "name": "SafePassBuilder",
+  "domain": "safepassbuilder.com",
+  "url": "https://safepassbuilder.com",
+  "emoji": "🔧",
+  "brand": "SafePassBuilder",
+  "angle": "Builder concept. Step-by-step wizard for creating passwords. Unique UX differentiator.",
+  "primaryColor": "slate",
+  "description": "Build your perfect password step by step — customise every detail with our interactive password builder.",
+  "shortDescription": "Password Builder & Generator",
+  "topic": "password builder, custom password, interactive password generator",
+  "tags": [
+    "builder",
+    "custom",
+    "interactive",
+    "passwords",
+    "wizard"
+  ],
+  "active": true,
+  "repo": "kokallimited2/safepassbuilder-com",
+  "deployDay": 3,
+  "deploySlot": "18:00",
+  "posts": [],
+  "defaultKeywords": "password builder, custom password, interactive password generator",
+  "blogDescription": "Guides, tips and news about password builder, custom password, interactive password generator.",
+  "generatedAt": "2026-04-26"
+}
