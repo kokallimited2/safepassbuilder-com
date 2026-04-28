@@ -3,11 +3,11 @@
   "name": "SafePassBuilder",
   "domain": "safepassbuilder.com",
   "url": "https://safepassbuilder.com",
-  "emoji": "🔧",
+  "emoji": "\ud83d\udd27",
   "brand": "SafePassBuilder",
   "angle": "Builder concept. Step-by-step wizard for creating passwords. Unique UX differentiator.",
   "primaryColor": "slate",
-  "description": "Build your perfect password step by step — customise every detail with our interactive password builder.",
+  "description": "Build your perfect password step by step \u2014 customise every detail with our interactive password builder.",
   "shortDescription": "Password Builder & Generator",
   "topic": "password builder, custom password, interactive password generator",
   "tags": [
@@ -24,5 +24,6 @@
   "posts": [],
   "defaultKeywords": "password builder, custom password, interactive password generator",
   "blogDescription": "Guides, tips and news about password builder, custom password, interactive password generator.",
-  "generatedAt": "2026-04-26"
+  "generatedAt": "2026-04-26",
+  "siteName": "SafePassBuilder"
 }
