@@ -1,5 +1,23 @@
 [
   {
+    "slug": "nist-password-guidelines-2025-what-security-experts-now-recommend",
+    "title": "NIST Password Guidelines 2025: What Security Experts Now Recommend",
+    "excerpt": "NIST overhauled its password guidance in 2024. Many common rules have been retired. Here's what security experts actually recommend now.",
+    "date": "2026-04-29",
+    "category": "Security Tips",
+    "readTime": "5 min read",
+    "keywords": "NIST password guidelines 2025, password best practices, NIST 800-63, password complexity rules, password policy"
+  },
+  {
+    "slug": "credential-stuffing-the-sneaky-attack-youve-never-heard-of",
+    "title": "Credential Stuffing: The Sneaky Attack You've Never Heard Of",
+    "excerpt": "Credential stuffing uses your old leaked passwords to break into completely different accounts. Here's how it works and how to stop it.",
+    "date": "2026-04-29",
+    "category": "Data Breach",
+    "readTime": "5 min read",
+    "keywords": "credential stuffing, account takeover, password breach, leaked credentials, prevent credential stuffing"
+  },
+  {
     "slug": "how-long-would-it-take-to-crack-your-password",
     "title": "How Long Would It Take to Crack Your Password?",
     "excerpt": "Password cracking speeds have increased dramatically with modern GPUs. Find out how your current passwords measure up.",
